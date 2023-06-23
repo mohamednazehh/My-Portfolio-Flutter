@@ -22,22 +22,22 @@ class Knowledge extends StatelessWidget {
           ),
         ),
         const KnowledgeText(
-          text: "Flutter,  Dart",
+          text: "Planning & management",
         ),
         const KnowledgeText(
-          text: "Data Scientist ",
+          text: "Marketing services",
         ),
         const KnowledgeText(
-          text: "Machine Learning",
+          text: "Training & team skill up",
         ),
         const KnowledgeText(
-          text: "Deep Learning",
+          text: "Consultation & advisory",
         ),
         const KnowledgeText(
-          text: "Competitive programming ",
+          text: "Business development",
         ),
         const KnowledgeText(
-          text: "Google DSC",
+          text: "Virtual assistance",
         ),
       ],
     );
